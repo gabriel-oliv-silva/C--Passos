@@ -1,11 +1,17 @@
 
 # Repositório de Estudos em C#
 
-Este repositório reúne minhas práticas, projetos e experimentações com a linguagem C#, desenvolvidos ao longo do curso Técnico em Desenvolvimento de Sistemas (SENAI) e em estudos independentes. Ele documentará minha jornada desde a minha reambientação aos fundamentos da linguagem (transição do Java para o C#) até o uso de frameworks e conceitos mais avançados.
+<table>
+  <tr>
+    <td>
+Este repositório reúne minhas práticas, projetos e experimentações com a linguagem C#, desenvolvidos ao longo do curso Técnico em Desenvolvimento de Sistemas (SENAI) e em estudos independentes. Ele documentará minha jornada desde a minha reambientação aos fundamentos da linguagem (transição do Java para o C#) até o uso de frameworks e conceitos mais avançados. <br>
+    </td>
+  </tr>
+</table>
 
 ## Objetivo
 
-Registrar minha evolução como desenvolvedor Java por meio de exercícios, códigos comentados, pequenos sistemas e experimentações. O repositório serve como:
+Registrar minha evolução como desenvolvedor C# por meio de exercícios, códigos comentados, pequenos sistemas e experimentações. O repositório serve como:
 
 - Portfólio pessoal  
 - Ferramenta de estudo e revisão  
